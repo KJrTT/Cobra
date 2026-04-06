@@ -1,6 +1,6 @@
 # COBRApy
 
-COBRApy (Constraint-Based Reconstruction and Analysis in Python) — это библиотека Python для работы с моделями метаболических сетей на основе ограничений (Constraint-Based Reconstruction and Analysis). Она предоставляет инструменты для загрузки, анализа и симуляции генетически-масштабных метаболических моделей (Genome-Scale Metabolic Models, GSMM) в форматах SBML, JSON и MAT. COBRApy позволяет исследователям и биоинженерам проводить flux balance analysis (FBA), анализ knockout-мутаций, sampling решений и другие вычисления без необходимости использования MATLAB или других проприетарных сред .
+COBRApy (Constraint-Based Reconstruction and Analysis in Python) — это библиотека Python(Go) для работы с моделями метаболических сетей на основе ограничений (Constraint-Based Reconstruction and Analysis). Она предоставляет инструменты для загрузки, анализа и симуляции генетически-масштабных метаболических моделей (Genome-Scale Metabolic Models, GSMM) в форматах SBML, JSON и MAT. COBRApy позволяет исследователям и биоинженерам проводить flux balance analysis (FBA), анализ knockout-мутаций, sampling решений и другие вычисления без необходимости использования MATLAB или других проприетарных сред .
 
 ---
 ## Модуль 1. Контент и предпосылки
